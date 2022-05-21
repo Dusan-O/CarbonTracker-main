@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CPRingChart/CPRingChart.framework
+${BUILT_PRODUCTS_DIR}/CircleProgressView/CircleProgressView.framework
+${BUILT_PRODUCTS_DIR}/MKRingProgressView/MKRingProgressView.framework

@@ -1,0 +1,6 @@
+framework module Pods_CarbonTracker_CarbonTrackerUITests {
+  umbrella header "Pods-CarbonTracker-CarbonTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

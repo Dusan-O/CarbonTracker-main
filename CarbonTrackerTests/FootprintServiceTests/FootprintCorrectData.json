@@ -1,0 +1,19 @@
+{
+    "data": {
+        "id": "c15e929f-d9ad-4beb-96d9-9d4ce153c469",
+        "type": "estimate",
+        "attributes": {
+            "distance_value": 1251.0,
+            "vehicle_make": "Ferrari",
+            "vehicle_model": "Ferrari 348 TB/TS/Spider",
+            "vehicle_year": 1994,
+            "vehicle_model_id": "be609fac-faac-4031-b457-ab78a55147bd",
+            "distance_unit": "km",
+            "estimated_at": "2022-01-29T12:34:34.710Z",
+            "carbon_g": 531398,
+            "carbon_lb": 1171.53,
+            "carbon_kg": 531.4,
+            "carbon_mt": 0.53
+        }
+    }
+}

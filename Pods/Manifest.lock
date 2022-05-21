@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.4)
+  - CircleProgressView (1.2.0)
+  - CPRingChart (0.1.1):
+    - CircleProgressView
+  - MKRingProgressView (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - CPRingChart
+  - MKRingProgressView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CircleProgressView
+    - CPRingChart
+    - MKRingProgressView
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  CircleProgressView: 6b5b091d59dc5e5d2fda84e637a40498cdc39937
+  CPRingChart: 7cab03db6e8f9bb626b027345d48229a2b76b808
+  MKRingProgressView: f534209b9a1edc0beb2ea613e6b953ea2195b565
+
+PODFILE CHECKSUM: 0a7f0f81409511e15ad6a46e1b745697014005eb
+
+COCOAPODS: 1.11.2

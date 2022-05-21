@@ -1,0 +1,6 @@
+framework module Pods_CarbonTracker {
+  umbrella header "Pods-CarbonTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}

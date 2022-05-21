@@ -1,0 +1,1367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		471B91DE27B5FAB600FC1E8A /* CountModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 471B91DD27B5FAB600FC1E8A /* CountModalViewController.swift */; };
+		4768DE4627A8CB5A00577A68 /* FootprintCdObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4768DE4527A8CB5A00577A68 /* FootprintCdObject.swift */; };
+		4768DE4827A8CB7800577A68 /* FootprintCdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4768DE4727A8CB7800577A68 /* FootprintCdManager.swift */; };
+		479681BE27AE0A1E002C6501 /* FootprintDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479681BD27AE0A1E002C6501 /* FootprintDetailViewController.swift */; };
+		479681C027B09DA2002C6501 /* FootprintCountManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479681BF27B09DA2002C6501 /* FootprintCountManager.swift */; };
+		479681C227B0AA6C002C6501 /* FootprintCountTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479681C127B0AA6C002C6501 /* FootprintCountTestCase.swift */; };
+		47AAB8AF27ACBF3500910908 /* FootprintTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AAB8AE27ACBF3500910908 /* FootprintTableViewCell.swift */; };
+		47AE429D27B200C700606C1C /* CustomPathRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AE429C27B200C700606C1C /* CustomPathRenderer.swift */; };
+		47B1FE6F27926D3000B57ECD /* CarMakeServiceAF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B1FE6E27926D3000B57ECD /* CarMakeServiceAF.swift */; };
+		60B715F00D6ADBDC661F5C10 /* Pods_CarbonTrackerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 600E3F5F6F29F0D8039EA936 /* Pods_CarbonTrackerTests.framework */; };
+		861C4D0327A7681B00D8E281 /* CountriesDataArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0227A7681B00D8E281 /* CountriesDataArray.swift */; };
+		861C4D0627A9ACC100D8E281 /* FootprintCalculationsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0527A9ACC100D8E281 /* FootprintCalculationsManager.swift */; };
+		861C4D0927A9CAA000D8E281 /* FootprintCalculationHelperTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0827A9CAA000D8E281 /* FootprintCalculationHelperTestCase.swift */; };
+		861C4D0C27AB129000D8E281 /* FootprintDataObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0B27AB129000D8E281 /* FootprintDataObject.swift */; };
+		861C4D0E27AB20D000D8E281 /* FootprintCdManagerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0D27AB20D000D8E281 /* FootprintCdManagerTestCase.swift */; };
+		861C4D1027AB210900D8E281 /* SampleFootprintDataObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861C4D0F27AB210900D8E281 /* SampleFootprintDataObjects.swift */; };
+		8629DDC22794839300E3F644 /* CarMakeServiceAFTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDC12794839300E3F644 /* CarMakeServiceAFTestCase.swift */; };
+		8629DDC4279483E100E3F644 /* AlamofireMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDC3279483E100E3F644 /* AlamofireMock.swift */; };
+		8629DDC6279484D300E3F644 /* CarMakeServiceCorrectJsonData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8629DDC5279484D300E3F644 /* CarMakeServiceCorrectJsonData.json */; };
+		8629DDC8279485B400E3F644 /* CarMakeServiceBadJsonData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8629DDC7279485B400E3F644 /* CarMakeServiceBadJsonData.json */; };
+		8629DDCA2794861300E3F644 /* CarMakesFakeResponseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDC92794861300E3F644 /* CarMakesFakeResponseData.swift */; };
+		8629DDCC2794876200E3F644 /* NetworkErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDCB2794876200E3F644 /* NetworkErrors.swift */; };
+		8629DDD02795F4EF00E3F644 /* CarModelServiceAF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDCF2795F4EF00E3F644 /* CarModelServiceAF.swift */; };
+		8629DDD22795F50300E3F644 /* CarModelsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDD12795F50300E3F644 /* CarModelsData.swift */; };
+		8629DDD52795FF5200E3F644 /* CarModelsServiceAFTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDD42795FF5200E3F644 /* CarModelsServiceAFTestCase.swift */; };
+		8629DDD82795FFAB00E3F644 /* CarModelsFakeResponseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDD72795FFAB00E3F644 /* CarModelsFakeResponseData.swift */; };
+		8629DDDA2795FFEC00E3F644 /* CarModelsCorrectData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8629DDD92795FFEC00E3F644 /* CarModelsCorrectData.json */; };
+		8629DDDC2796001200E3F644 /* CarModelsIncorrectData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8629DDDB2796001200E3F644 /* CarModelsIncorrectData.json */; };
+		8629DDDF2796C5B200E3F644 /* CarModelObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDDE2796C5B200E3F644 /* CarModelObject.swift */; };
+		8629DDE12796C6B400E3F644 /* CarModelObjectManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDE02796C6B400E3F644 /* CarModelObjectManager.swift */; };
+		8629DDE4279736E600E3F644 /* TestingFakePersistentContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDE3279736E600E3F644 /* TestingFakePersistentContainer.swift */; };
+		8629DDE6279739A700E3F644 /* SampleCarModelObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDE5279739A700E3F644 /* SampleCarModelObjects.swift */; };
+		8629DDE827973C5300E3F644 /* CarModelObjectManagerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8629DDE727973C5300E3F644 /* CarModelObjectManagerTestCase.swift */; };
+		862A9B73279DC90F00D933FC /* StartingAdressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862A9B72279DC90F00D933FC /* StartingAdressViewController.swift */; };
+		862A9B75279DC92400D933FC /* DestinationAdressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862A9B74279DC92400D933FC /* DestinationAdressViewController.swift */; };
+		862A9B77279DC93500D933FC /* ConfirmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862A9B76279DC93500D933FC /* ConfirmViewController.swift */; };
+		862A9B79279F48A800D933FC /* MapLocations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862A9B78279F48A800D933FC /* MapLocations.swift */; };
+		8633372A27A1AF6D00FFD719 /* LocationDatas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633372927A1AF6D00FFD719 /* LocationDatas.swift */; };
+		8633372C27A5948C00FFD719 /* CarbonFootprintAFSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633372B27A5948C00FFD719 /* CarbonFootprintAFSession.swift */; };
+		8633372F27A596D000FFD719 /* EncodableCarbonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633372E27A596D000FFD719 /* EncodableCarbonData.swift */; };
+		8633373127A59EF900FFD719 /* LocationDatasTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633373027A59EF900FFD719 /* LocationDatasTestCase.swift */; };
+		8633373427A5A2F800FFD719 /* DecodableCarbonFootprint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633373327A5A2F800FFD719 /* DecodableCarbonFootprint.swift */; };
+		8633373627A5A52B00FFD719 /* CarbonFootprintSessionAF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633373527A5A52B00FFD719 /* CarbonFootprintSessionAF.swift */; };
+		8633373827A5AE5900FFD719 /* CarbonFootprintSessionAFTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633373727A5AE5900FFD719 /* CarbonFootprintSessionAFTestCase.swift */; };
+		8633373B27A5AEB800FFD719 /* FootprintCorrectData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8633373A27A5AEB800FFD719 /* FootprintCorrectData.json */; };
+		8633373D27A5AFA000FFD719 /* FootprintFakeResponseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8633373C27A5AFA000FFD719 /* FootprintFakeResponseData.swift */; };
+		8633373F27A5B01500FFD719 /* FootprintIncorrectData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8633373E27A5B01500FFD719 /* FootprintIncorrectData.json */; };
+		866C2E5827B5605D000C2BF5 /* CoreUserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866C2E5727B5605D000C2BF5 /* CoreUserDefaults.swift */; };
+		866C2E5B27B560D2000C2BF5 /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866C2E5A27B560D2000C2BF5 /* OnboardingViewController.swift */; };
+		869C284E27A5D4F700FD829B /* FootprintResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869C284D27A5D4F700FD829B /* FootprintResultViewController.swift */; };
+		869CE4DA27B2D98D00785744 /* CustomNavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869CE4D927B2D98D00785744 /* CustomNavigationItem.swift */; };
+		869CE4DC27B2E47900785744 /* CustomAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869CE4DB27B2E47900785744 /* CustomAnnotationView.swift */; };
+		869CE4DE27B2EB2200785744 /* CustomAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869CE4DD27B2EB2200785744 /* CustomAnnotation.swift */; };
+		86D1C1A62791F1A7008B50B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1A52791F1A7008B50B0 /* AppDelegate.swift */; };
+		86D1C1A82791F1A7008B50B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1A72791F1A7008B50B0 /* SceneDelegate.swift */; };
+		86D1C1AD2791F1A7008B50B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86D1C1AB2791F1A7008B50B0 /* Main.storyboard */; };
+		86D1C1B02791F1A7008B50B0 /* CarbonTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1AE2791F1A7008B50B0 /* CarbonTracker.xcdatamodeld */; };
+		86D1C1B22791F1AB008B50B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86D1C1B12791F1AB008B50B0 /* Assets.xcassets */; };
+		86D1C1B52791F1AB008B50B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86D1C1B32791F1AB008B50B0 /* LaunchScreen.storyboard */; };
+		86D1C1CA2791F1AB008B50B0 /* CarbonTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1C92791F1AB008B50B0 /* CarbonTrackerUITests.swift */; };
+		86D1C1CC2791F1AB008B50B0 /* CarbonTrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1CB2791F1AB008B50B0 /* CarbonTrackerUITestsLaunchTests.swift */; };
+		86D1C1E027920FC5008B50B0 /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1DF27920FC5008B50B0 /* APIKeys.swift */; };
+		86D1C1E42792189C008B50B0 /* MyCarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1E32792189C008B50B0 /* MyCarViewController.swift */; };
+		86D1C1E727933769008B50B0 /* AlamofireSessionProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1E627933769008B50B0 /* AlamofireSessionProtocol.swift */; };
+		86D1C1EA279337BA008B50B0 /* CarbonSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1E9279337BA008B50B0 /* CarbonSession.swift */; };
+		86D1C1ED279349AD008B50B0 /* FootprintsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1EC279349AD008B50B0 /* FootprintsViewController.swift */; };
+		86D1C1F027934A0B008B50B0 /* CountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1EF27934A0B008B50B0 /* CountViewController.swift */; };
+		86D1C1F327935031008B50B0 /* AddNewCarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1F227935031008B50B0 /* AddNewCarViewController.swift */; };
+		86D1C1F527935796008B50B0 /* SelectMakeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1F427935796008B50B0 /* SelectMakeViewController.swift */; };
+		86D1C1F727935AA2008B50B0 /* SelectModelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1F627935AA2008B50B0 /* SelectModelViewController.swift */; };
+		86D1C1F927935FD5008B50B0 /* CarMakesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1C1F827935FD5008B50B0 /* CarMakesData.swift */; };
+		86D6090C2799F48A00E3E999 /* CarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D6090B2799F48A00E3E999 /* CarTableViewCell.swift */; };
+		86E5A34127B4260500EEE41D /* GeoCoderHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E5A34027B4260500EEE41D /* GeoCoderHelper.swift */; };
+		86E5A34327B42AF400EEE41D /* GeoCoderServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E5A34227B42AF400EEE41D /* GeoCoderServiceTests.swift */; };
+		86EE4B2C27B17261007A7CEB /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EE4B2B27B17261007A7CEB /* UIColorExtension.swift */; };
+		86EE4B2F27B17E09007A7CEB /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EE4B2E27B17E09007A7CEB /* UIViewExtension.swift */; };
+		86EE4B3127B1BA5C007A7CEB /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EE4B3027B1BA5C007A7CEB /* CircleView.swift */; };
+		EBC7585EC3274C2568B912CB /* Pods_CarbonTracker_CarbonTrackerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70F82C253CC1AE12FBDF64F3 /* Pods_CarbonTracker_CarbonTrackerUITests.framework */; };
+		F97B99B7E78B99DA41B11F1F /* Pods_CarbonTracker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D7CFB3C5E723624B28C0AB9 /* Pods_CarbonTracker.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		86D1C1BC2791F1AB008B50B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 86D1C19A2791F1A7008B50B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 86D1C1A12791F1A7008B50B0;
+			remoteInfo = CarbonTracker;
+		};
+		86D1C1C62791F1AB008B50B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 86D1C19A2791F1A7008B50B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 86D1C1A12791F1A7008B50B0;
+			remoteInfo = CarbonTracker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1D7CFB3C5E723624B28C0AB9 /* Pods_CarbonTracker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarbonTracker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E5D544A833157E601A7D2DF /* Pods-CarbonTracker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTracker.debug.xcconfig"; path = "Target Support Files/Pods-CarbonTracker/Pods-CarbonTracker.debug.xcconfig"; sourceTree = "<group>"; };
+		471B91DD27B5FAB600FC1E8A /* CountModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountModalViewController.swift; sourceTree = "<group>"; };
+		4768DE4527A8CB5A00577A68 /* FootprintCdObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCdObject.swift; sourceTree = "<group>"; };
+		4768DE4727A8CB7800577A68 /* FootprintCdManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCdManager.swift; sourceTree = "<group>"; };
+		479681BD27AE0A1E002C6501 /* FootprintDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintDetailViewController.swift; sourceTree = "<group>"; };
+		479681BF27B09DA2002C6501 /* FootprintCountManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCountManager.swift; sourceTree = "<group>"; };
+		479681C127B0AA6C002C6501 /* FootprintCountTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCountTestCase.swift; sourceTree = "<group>"; };
+		47AAB8AE27ACBF3500910908 /* FootprintTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintTableViewCell.swift; sourceTree = "<group>"; };
+		47AE429C27B200C700606C1C /* CustomPathRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPathRenderer.swift; sourceTree = "<group>"; };
+		47B1FE6E27926D3000B57ECD /* CarMakeServiceAF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarMakeServiceAF.swift; sourceTree = "<group>"; };
+		600E3F5F6F29F0D8039EA936 /* Pods_CarbonTrackerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarbonTrackerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		70F82C253CC1AE12FBDF64F3 /* Pods_CarbonTracker_CarbonTrackerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarbonTracker_CarbonTrackerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72C718944DDAC18DA7EE7492 /* Pods-CarbonTracker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTracker.release.xcconfig"; path = "Target Support Files/Pods-CarbonTracker/Pods-CarbonTracker.release.xcconfig"; sourceTree = "<group>"; };
+		80A1DD18F887DF9F218DB1DC /* Pods-CarbonTracker-CarbonTrackerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTracker-CarbonTrackerUITests.debug.xcconfig"; path = "Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		861C4D0227A7681B00D8E281 /* CountriesDataArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesDataArray.swift; sourceTree = "<group>"; };
+		861C4D0527A9ACC100D8E281 /* FootprintCalculationsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCalculationsManager.swift; sourceTree = "<group>"; };
+		861C4D0827A9CAA000D8E281 /* FootprintCalculationHelperTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCalculationHelperTestCase.swift; sourceTree = "<group>"; };
+		861C4D0B27AB129000D8E281 /* FootprintDataObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintDataObject.swift; sourceTree = "<group>"; };
+		861C4D0D27AB20D000D8E281 /* FootprintCdManagerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintCdManagerTestCase.swift; sourceTree = "<group>"; };
+		861C4D0F27AB210900D8E281 /* SampleFootprintDataObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleFootprintDataObjects.swift; sourceTree = "<group>"; };
+		8629DDC12794839300E3F644 /* CarMakeServiceAFTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarMakeServiceAFTestCase.swift; sourceTree = "<group>"; };
+		8629DDC3279483E100E3F644 /* AlamofireMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireMock.swift; sourceTree = "<group>"; };
+		8629DDC5279484D300E3F644 /* CarMakeServiceCorrectJsonData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CarMakeServiceCorrectJsonData.json; sourceTree = "<group>"; };
+		8629DDC7279485B400E3F644 /* CarMakeServiceBadJsonData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CarMakeServiceBadJsonData.json; sourceTree = "<group>"; };
+		8629DDC92794861300E3F644 /* CarMakesFakeResponseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarMakesFakeResponseData.swift; sourceTree = "<group>"; };
+		8629DDCB2794876200E3F644 /* NetworkErrors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkErrors.swift; sourceTree = "<group>"; };
+		8629DDCF2795F4EF00E3F644 /* CarModelServiceAF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelServiceAF.swift; sourceTree = "<group>"; };
+		8629DDD12795F50300E3F644 /* CarModelsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelsData.swift; sourceTree = "<group>"; };
+		8629DDD42795FF5200E3F644 /* CarModelsServiceAFTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelsServiceAFTestCase.swift; sourceTree = "<group>"; };
+		8629DDD72795FFAB00E3F644 /* CarModelsFakeResponseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CarModelsFakeResponseData.swift; path = CarbonTrackerTests/CarModelsFakeResponseData.swift; sourceTree = SOURCE_ROOT; };
+		8629DDD92795FFEC00E3F644 /* CarModelsCorrectData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = CarModelsCorrectData.json; path = CarbonTrackerTests/CarModelsCorrectData.json; sourceTree = SOURCE_ROOT; };
+		8629DDDB2796001200E3F644 /* CarModelsIncorrectData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = CarModelsIncorrectData.json; path = CarbonTrackerTests/CarModelsIncorrectData.json; sourceTree = SOURCE_ROOT; };
+		8629DDDE2796C5B200E3F644 /* CarModelObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelObject.swift; sourceTree = "<group>"; };
+		8629DDE02796C6B400E3F644 /* CarModelObjectManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelObjectManager.swift; sourceTree = "<group>"; };
+		8629DDE3279736E600E3F644 /* TestingFakePersistentContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingFakePersistentContainer.swift; sourceTree = "<group>"; };
+		8629DDE5279739A700E3F644 /* SampleCarModelObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCarModelObjects.swift; sourceTree = "<group>"; };
+		8629DDE727973C5300E3F644 /* CarModelObjectManagerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelObjectManagerTestCase.swift; sourceTree = "<group>"; };
+		862A9B72279DC90F00D933FC /* StartingAdressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartingAdressViewController.swift; sourceTree = "<group>"; };
+		862A9B74279DC92400D933FC /* DestinationAdressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationAdressViewController.swift; sourceTree = "<group>"; };
+		862A9B76279DC93500D933FC /* ConfirmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmViewController.swift; sourceTree = "<group>"; };
+		862A9B78279F48A800D933FC /* MapLocations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapLocations.swift; sourceTree = "<group>"; };
+		8633372927A1AF6D00FFD719 /* LocationDatas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDatas.swift; sourceTree = "<group>"; };
+		8633372B27A5948C00FFD719 /* CarbonFootprintAFSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonFootprintAFSession.swift; sourceTree = "<group>"; };
+		8633372E27A596D000FFD719 /* EncodableCarbonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncodableCarbonData.swift; sourceTree = "<group>"; };
+		8633373027A59EF900FFD719 /* LocationDatasTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDatasTestCase.swift; sourceTree = "<group>"; };
+		8633373327A5A2F800FFD719 /* DecodableCarbonFootprint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodableCarbonFootprint.swift; sourceTree = "<group>"; };
+		8633373527A5A52B00FFD719 /* CarbonFootprintSessionAF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonFootprintSessionAF.swift; sourceTree = "<group>"; };
+		8633373727A5AE5900FFD719 /* CarbonFootprintSessionAFTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonFootprintSessionAFTestCase.swift; sourceTree = "<group>"; };
+		8633373A27A5AEB800FFD719 /* FootprintCorrectData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = FootprintCorrectData.json; sourceTree = "<group>"; };
+		8633373C27A5AFA000FFD719 /* FootprintFakeResponseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintFakeResponseData.swift; sourceTree = "<group>"; };
+		8633373E27A5B01500FFD719 /* FootprintIncorrectData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = FootprintIncorrectData.json; sourceTree = "<group>"; };
+		866C2E5727B5605D000C2BF5 /* CoreUserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreUserDefaults.swift; sourceTree = "<group>"; };
+		866C2E5A27B560D2000C2BF5 /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
+		869C284D27A5D4F700FD829B /* FootprintResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintResultViewController.swift; sourceTree = "<group>"; };
+		869CE4D927B2D98D00785744 /* CustomNavigationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationItem.swift; sourceTree = "<group>"; };
+		869CE4DB27B2E47900785744 /* CustomAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnnotationView.swift; sourceTree = "<group>"; };
+		869CE4DD27B2EB2200785744 /* CustomAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnnotation.swift; sourceTree = "<group>"; };
+		86D1C1A22791F1A7008B50B0 /* CarbonTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarbonTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		86D1C1A52791F1A7008B50B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		86D1C1A72791F1A7008B50B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		86D1C1AC2791F1A7008B50B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		86D1C1AF2791F1A7008B50B0 /* CarbonTracker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CarbonTracker.xcdatamodel; sourceTree = "<group>"; };
+		86D1C1B12791F1AB008B50B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		86D1C1B42791F1AB008B50B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86D1C1B62791F1AB008B50B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86D1C1BB2791F1AB008B50B0 /* CarbonTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarbonTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		86D1C1C52791F1AB008B50B0 /* CarbonTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarbonTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		86D1C1C92791F1AB008B50B0 /* CarbonTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonTrackerUITests.swift; sourceTree = "<group>"; };
+		86D1C1CB2791F1AB008B50B0 /* CarbonTrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonTrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		86D1C1DF27920FC5008B50B0 /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
+		86D1C1E32792189C008B50B0 /* MyCarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCarViewController.swift; sourceTree = "<group>"; };
+		86D1C1E627933769008B50B0 /* AlamofireSessionProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireSessionProtocol.swift; sourceTree = "<group>"; };
+		86D1C1E9279337BA008B50B0 /* CarbonSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonSession.swift; sourceTree = "<group>"; };
+		86D1C1EC279349AD008B50B0 /* FootprintsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootprintsViewController.swift; sourceTree = "<group>"; };
+		86D1C1EF27934A0B008B50B0 /* CountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountViewController.swift; sourceTree = "<group>"; };
+		86D1C1F227935031008B50B0 /* AddNewCarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewCarViewController.swift; sourceTree = "<group>"; };
+		86D1C1F427935796008B50B0 /* SelectMakeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectMakeViewController.swift; sourceTree = "<group>"; };
+		86D1C1F627935AA2008B50B0 /* SelectModelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectModelViewController.swift; sourceTree = "<group>"; };
+		86D1C1F827935FD5008B50B0 /* CarMakesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarMakesData.swift; sourceTree = "<group>"; };
+		86D6090B2799F48A00E3E999 /* CarTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarTableViewCell.swift; sourceTree = "<group>"; };
+		86E5A34027B4260500EEE41D /* GeoCoderHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoCoderHelper.swift; sourceTree = "<group>"; };
+		86E5A34227B42AF400EEE41D /* GeoCoderServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoCoderServiceTests.swift; sourceTree = "<group>"; };
+		86EE4B2B27B17261007A7CEB /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		86EE4B2E27B17E09007A7CEB /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		86EE4B3027B1BA5C007A7CEB /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		A6827FF36C4E1F3DAEF4AB54 /* Pods-CarbonTrackerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTrackerTests.release.xcconfig"; path = "Target Support Files/Pods-CarbonTrackerTests/Pods-CarbonTrackerTests.release.xcconfig"; sourceTree = "<group>"; };
+		AEB0427626A19A42A2F25F12 /* Pods-CarbonTracker-CarbonTrackerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTracker-CarbonTrackerUITests.release.xcconfig"; path = "Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests.release.xcconfig"; sourceTree = "<group>"; };
+		D1EA5D9C8B47FC4087C33197 /* Pods-CarbonTrackerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarbonTrackerTests.debug.xcconfig"; path = "Target Support Files/Pods-CarbonTrackerTests/Pods-CarbonTrackerTests.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		86D1C19F2791F1A7008B50B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F97B99B7E78B99DA41B11F1F /* Pods_CarbonTracker.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1B82791F1AB008B50B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60B715F00D6ADBDC661F5C10 /* Pods_CarbonTrackerTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1C22791F1AB008B50B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBC7585EC3274C2568B912CB /* Pods_CarbonTracker_CarbonTrackerUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4768DE4427A8CB3000577A68 /* CarModel */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDDE2796C5B200E3F644 /* CarModelObject.swift */,
+				8629DDE02796C6B400E3F644 /* CarModelObjectManager.swift */,
+			);
+			path = CarModel;
+			sourceTree = "<group>";
+		};
+		4768DE4927A8CB8300577A68 /* Fooprint */ = {
+			isa = PBXGroup;
+			children = (
+				4768DE4527A8CB5A00577A68 /* FootprintCdObject.swift */,
+				4768DE4727A8CB7800577A68 /* FootprintCdManager.swift */,
+				861C4D0B27AB129000D8E281 /* FootprintDataObject.swift */,
+			);
+			path = Fooprint;
+			sourceTree = "<group>";
+		};
+		47AE429E27B2126B00606C1C /* Custom Elements */ = {
+			isa = PBXGroup;
+			children = (
+				86EE4B3027B1BA5C007A7CEB /* CircleView.swift */,
+				47AE429C27B200C700606C1C /* CustomPathRenderer.swift */,
+				869CE4D927B2D98D00785744 /* CustomNavigationItem.swift */,
+				869CE4DB27B2E47900785744 /* CustomAnnotationView.swift */,
+				869CE4DD27B2EB2200785744 /* CustomAnnotation.swift */,
+			);
+			path = "Custom Elements";
+			sourceTree = "<group>";
+		};
+		861C4D0427A7682A00D8E281 /* Countries */ = {
+			isa = PBXGroup;
+			children = (
+				861C4D0227A7681B00D8E281 /* CountriesDataArray.swift */,
+			);
+			path = Countries;
+			sourceTree = "<group>";
+		};
+		861C4D0727A9ACFC00D8E281 /* Footprint calculations */ = {
+			isa = PBXGroup;
+			children = (
+				861C4D0527A9ACC100D8E281 /* FootprintCalculationsManager.swift */,
+				479681BF27B09DA2002C6501 /* FootprintCountManager.swift */,
+			);
+			path = "Footprint calculations";
+			sourceTree = "<group>";
+		};
+		861C4D0A27A9CAA700D8E281 /* FootprintModelTests */ = {
+			isa = PBXGroup;
+			children = (
+				861C4D0827A9CAA000D8E281 /* FootprintCalculationHelperTestCase.swift */,
+				479681C127B0AA6C002C6501 /* FootprintCountTestCase.swift */,
+			);
+			path = FootprintModelTests;
+			sourceTree = "<group>";
+		};
+		861C4D1127AB211000D8E281 /* FootprintsCdManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				861C4D0D27AB20D000D8E281 /* FootprintCdManagerTestCase.swift */,
+				861C4D0F27AB210900D8E281 /* SampleFootprintDataObjects.swift */,
+			);
+			path = FootprintsCdManagerTests;
+			sourceTree = "<group>";
+		};
+		8629DDC02794832800E3F644 /* CarMakeServiceTests */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDC12794839300E3F644 /* CarMakeServiceAFTestCase.swift */,
+				8629DDC3279483E100E3F644 /* AlamofireMock.swift */,
+				8629DDC92794861300E3F644 /* CarMakesFakeResponseData.swift */,
+				8629DDC5279484D300E3F644 /* CarMakeServiceCorrectJsonData.json */,
+				8629DDC7279485B400E3F644 /* CarMakeServiceBadJsonData.json */,
+			);
+			path = CarMakeServiceTests;
+			sourceTree = "<group>";
+		};
+		8629DDCD2794876B00E3F644 /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDCB2794876200E3F644 /* NetworkErrors.swift */,
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		8629DDCE2795F43A00E3F644 /* CarMake */ = {
+			isa = PBXGroup;
+			children = (
+				47B1FE6E27926D3000B57ECD /* CarMakeServiceAF.swift */,
+				86D1C1F827935FD5008B50B0 /* CarMakesData.swift */,
+			);
+			path = CarMake;
+			sourceTree = "<group>";
+		};
+		8629DDD32795F50900E3F644 /* CarModels */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDCF2795F4EF00E3F644 /* CarModelServiceAF.swift */,
+				8629DDD12795F50300E3F644 /* CarModelsData.swift */,
+			);
+			path = CarModels;
+			sourceTree = "<group>";
+		};
+		8629DDD62795FF5F00E3F644 /* CarModelsServiceTests */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDD42795FF5200E3F644 /* CarModelsServiceAFTestCase.swift */,
+				8629DDD72795FFAB00E3F644 /* CarModelsFakeResponseData.swift */,
+				8629DDD92795FFEC00E3F644 /* CarModelsCorrectData.json */,
+				8629DDDB2796001200E3F644 /* CarModelsIncorrectData.json */,
+			);
+			path = CarModelsServiceTests;
+			sourceTree = "<group>";
+		};
+		8629DDDD2796C32300E3F644 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1AE2791F1A7008B50B0 /* CarbonTracker.xcdatamodeld */,
+				4768DE4927A8CB8300577A68 /* Fooprint */,
+				4768DE4427A8CB3000577A68 /* CarModel */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		8629DDE22797366800E3F644 /* CoreDataTests */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDE3279736E600E3F644 /* TestingFakePersistentContainer.swift */,
+				8629DDE927973C5A00E3F644 /* CarModelObjectManagerTests */,
+				861C4D1127AB211000D8E281 /* FootprintsCdManagerTests */,
+			);
+			path = CoreDataTests;
+			sourceTree = "<group>";
+		};
+		8629DDE927973C5A00E3F644 /* CarModelObjectManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDE727973C5300E3F644 /* CarModelObjectManagerTestCase.swift */,
+				8629DDE5279739A700E3F644 /* SampleCarModelObjects.swift */,
+			);
+			path = CarModelObjectManagerTests;
+			sourceTree = "<group>";
+		};
+		862A9B7A279F48B400D933FC /* MapDatas */ = {
+			isa = PBXGroup;
+			children = (
+				862A9B78279F48A800D933FC /* MapLocations.swift */,
+				8633372927A1AF6D00FFD719 /* LocationDatas.swift */,
+			);
+			path = MapDatas;
+			sourceTree = "<group>";
+		};
+		8633372D27A5967D00FFD719 /* CarbonFootprintSession */ = {
+			isa = PBXGroup;
+			children = (
+				8633373327A5A2F800FFD719 /* DecodableCarbonFootprint.swift */,
+				8633373527A5A52B00FFD719 /* CarbonFootprintSessionAF.swift */,
+				8633372E27A596D000FFD719 /* EncodableCarbonData.swift */,
+			);
+			path = CarbonFootprintSession;
+			sourceTree = "<group>";
+		};
+		8633373227A59F0100FFD719 /* LocationDatasTestCase */ = {
+			isa = PBXGroup;
+			children = (
+				8633373027A59EF900FFD719 /* LocationDatasTestCase.swift */,
+			);
+			path = LocationDatasTestCase;
+			sourceTree = "<group>";
+		};
+		8633373927A5AE6000FFD719 /* FootprintServiceTests */ = {
+			isa = PBXGroup;
+			children = (
+				8633373727A5AE5900FFD719 /* CarbonFootprintSessionAFTestCase.swift */,
+				8633373C27A5AFA000FFD719 /* FootprintFakeResponseData.swift */,
+				8633373A27A5AEB800FFD719 /* FootprintCorrectData.json */,
+				8633373E27A5B01500FFD719 /* FootprintIncorrectData.json */,
+			);
+			path = FootprintServiceTests;
+			sourceTree = "<group>";
+		};
+		863B2F112799FBC200FD27BB /* TableVIewCells */ = {
+			isa = PBXGroup;
+			children = (
+				86D6090B2799F48A00E3E999 /* CarTableViewCell.swift */,
+				47AAB8AE27ACBF3500910908 /* FootprintTableViewCell.swift */,
+			);
+			path = TableVIewCells;
+			sourceTree = "<group>";
+		};
+		866C2E5927B5606B000C2BF5 /* UserDefaults */ = {
+			isa = PBXGroup;
+			children = (
+				866C2E5727B5605D000C2BF5 /* CoreUserDefaults.swift */,
+			);
+			path = UserDefaults;
+			sourceTree = "<group>";
+		};
+		866C2E5C27B560DA000C2BF5 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				866C2E5A27B560D2000C2BF5 /* OnboardingViewController.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		86D1C1992791F1A7008B50B0 = {
+			isa = PBXGroup;
+			children = (
+				86D1C1A42791F1A7008B50B0 /* CarbonTracker */,
+				86D1C1BE2791F1AB008B50B0 /* CarbonTrackerTests */,
+				86D1C1C82791F1AB008B50B0 /* CarbonTrackerUITests */,
+				86D1C1A32791F1A7008B50B0 /* Products */,
+				95FA74D63D14772140CF3D25 /* Pods */,
+				C78F830BA42F8748E4933806 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		86D1C1A32791F1A7008B50B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1A22791F1A7008B50B0 /* CarbonTracker.app */,
+				86D1C1BB2791F1AB008B50B0 /* CarbonTrackerTests.xctest */,
+				86D1C1C52791F1AB008B50B0 /* CarbonTrackerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		86D1C1A42791F1A7008B50B0 /* CarbonTracker */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1D82791F1C7008B50B0 /* Model */,
+				86D1C1D92791F1D3008B50B0 /* View */,
+				86D1C1DA2791F1EB008B50B0 /* Controller */,
+				86D1C1DB2791F21C008B50B0 /* SupportingFiles */,
+				86D1C1B12791F1AB008B50B0 /* Assets.xcassets */,
+				86D1C1B62791F1AB008B50B0 /* Info.plist */,
+			);
+			path = CarbonTracker;
+			sourceTree = "<group>";
+		};
+		86D1C1BE2791F1AB008B50B0 /* CarbonTrackerTests */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDE22797366800E3F644 /* CoreDataTests */,
+				8629DDD62795FF5F00E3F644 /* CarModelsServiceTests */,
+				8629DDC02794832800E3F644 /* CarMakeServiceTests */,
+				8633373927A5AE6000FFD719 /* FootprintServiceTests */,
+				8633373227A59F0100FFD719 /* LocationDatasTestCase */,
+				861C4D0A27A9CAA700D8E281 /* FootprintModelTests */,
+				86E5A34527B4336600EEE41D /* GeoCoderServiceTests */,
+			);
+			path = CarbonTrackerTests;
+			sourceTree = "<group>";
+		};
+		86D1C1C82791F1AB008B50B0 /* CarbonTrackerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1C92791F1AB008B50B0 /* CarbonTrackerUITests.swift */,
+				86D1C1CB2791F1AB008B50B0 /* CarbonTrackerUITestsLaunchTests.swift */,
+			);
+			path = CarbonTrackerUITests;
+			sourceTree = "<group>";
+		};
+		86D1C1D82791F1C7008B50B0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDDD2796C32300E3F644 /* CoreData */,
+				86D1C1DE27920F8D008B50B0 /* Networking */,
+				86D1C1E127920FD3008B50B0 /* Keys */,
+				862A9B7A279F48B400D933FC /* MapDatas */,
+				861C4D0427A7682A00D8E281 /* Countries */,
+				861C4D0727A9ACFC00D8E281 /* Footprint calculations */,
+				866C2E5927B5606B000C2BF5 /* UserDefaults */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		86D1C1D92791F1D3008B50B0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				86D6090A2799F41F00E3E999 /* Storyboards */,
+				863B2F112799FBC200FD27BB /* TableVIewCells */,
+				86EE4B2D27B17521007A7CEB /* Extensions */,
+				47AE429E27B2126B00606C1C /* Custom Elements */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		86D1C1DA2791F1EB008B50B0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1E5279218A8008B50B0 /* CarViewControllers */,
+				86D1C1EE279349BE008B50B0 /* Footprints */,
+				86D1C1F127934A0F008B50B0 /* Count */,
+				866C2E5C27B560DA000C2BF5 /* Onboarding */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		86D1C1DB2791F21C008B50B0 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1A52791F1A7008B50B0 /* AppDelegate.swift */,
+				86D1C1A72791F1A7008B50B0 /* SceneDelegate.swift */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		86D1C1DE27920F8D008B50B0 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1E2279210BE008B50B0 /* Car */,
+				86D1C1E82793376F008B50B0 /* Protocol */,
+				86D1C1EB279337C8008B50B0 /* AlamofireSessions */,
+				8633372D27A5967D00FFD719 /* CarbonFootprintSession */,
+				8629DDCD2794876B00E3F644 /* Errors */,
+				86E5A34427B4311E00EEE41D /* GeoCoderService */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		86D1C1E127920FD3008B50B0 /* Keys */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1DF27920FC5008B50B0 /* APIKeys.swift */,
+			);
+			path = Keys;
+			sourceTree = "<group>";
+		};
+		86D1C1E2279210BE008B50B0 /* Car */ = {
+			isa = PBXGroup;
+			children = (
+				8629DDCE2795F43A00E3F644 /* CarMake */,
+				8629DDD32795F50900E3F644 /* CarModels */,
+			);
+			path = Car;
+			sourceTree = "<group>";
+		};
+		86D1C1E5279218A8008B50B0 /* CarViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1E32792189C008B50B0 /* MyCarViewController.swift */,
+				86D1C1F227935031008B50B0 /* AddNewCarViewController.swift */,
+				86D1C1F427935796008B50B0 /* SelectMakeViewController.swift */,
+				86D1C1F627935AA2008B50B0 /* SelectModelViewController.swift */,
+			);
+			path = CarViewControllers;
+			sourceTree = "<group>";
+		};
+		86D1C1E82793376F008B50B0 /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1E627933769008B50B0 /* AlamofireSessionProtocol.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		86D1C1EB279337C8008B50B0 /* AlamofireSessions */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1E9279337BA008B50B0 /* CarbonSession.swift */,
+				8633372B27A5948C00FFD719 /* CarbonFootprintAFSession.swift */,
+			);
+			path = AlamofireSessions;
+			sourceTree = "<group>";
+		};
+		86D1C1EE279349BE008B50B0 /* Footprints */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1EC279349AD008B50B0 /* FootprintsViewController.swift */,
+				862A9B72279DC90F00D933FC /* StartingAdressViewController.swift */,
+				862A9B74279DC92400D933FC /* DestinationAdressViewController.swift */,
+				862A9B76279DC93500D933FC /* ConfirmViewController.swift */,
+				869C284D27A5D4F700FD829B /* FootprintResultViewController.swift */,
+				479681BD27AE0A1E002C6501 /* FootprintDetailViewController.swift */,
+			);
+			path = Footprints;
+			sourceTree = "<group>";
+		};
+		86D1C1F127934A0F008B50B0 /* Count */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1EF27934A0B008B50B0 /* CountViewController.swift */,
+				471B91DD27B5FAB600FC1E8A /* CountModalViewController.swift */,
+			);
+			path = Count;
+			sourceTree = "<group>";
+		};
+		86D6090A2799F41F00E3E999 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				86D1C1B32791F1AB008B50B0 /* LaunchScreen.storyboard */,
+				86D1C1AB2791F1A7008B50B0 /* Main.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		86E5A34427B4311E00EEE41D /* GeoCoderService */ = {
+			isa = PBXGroup;
+			children = (
+				86E5A34027B4260500EEE41D /* GeoCoderHelper.swift */,
+			);
+			path = GeoCoderService;
+			sourceTree = "<group>";
+		};
+		86E5A34527B4336600EEE41D /* GeoCoderServiceTests */ = {
+			isa = PBXGroup;
+			children = (
+				86E5A34227B42AF400EEE41D /* GeoCoderServiceTests.swift */,
+			);
+			path = GeoCoderServiceTests;
+			sourceTree = "<group>";
+		};
+		86EE4B2D27B17521007A7CEB /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				86EE4B2B27B17261007A7CEB /* UIColorExtension.swift */,
+				86EE4B2E27B17E09007A7CEB /* UIViewExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		95FA74D63D14772140CF3D25 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2E5D544A833157E601A7D2DF /* Pods-CarbonTracker.debug.xcconfig */,
+				72C718944DDAC18DA7EE7492 /* Pods-CarbonTracker.release.xcconfig */,
+				80A1DD18F887DF9F218DB1DC /* Pods-CarbonTracker-CarbonTrackerUITests.debug.xcconfig */,
+				AEB0427626A19A42A2F25F12 /* Pods-CarbonTracker-CarbonTrackerUITests.release.xcconfig */,
+				D1EA5D9C8B47FC4087C33197 /* Pods-CarbonTrackerTests.debug.xcconfig */,
+				A6827FF36C4E1F3DAEF4AB54 /* Pods-CarbonTrackerTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C78F830BA42F8748E4933806 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D7CFB3C5E723624B28C0AB9 /* Pods_CarbonTracker.framework */,
+				70F82C253CC1AE12FBDF64F3 /* Pods_CarbonTracker_CarbonTrackerUITests.framework */,
+				600E3F5F6F29F0D8039EA936 /* Pods_CarbonTrackerTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		86D1C1A12791F1A7008B50B0 /* CarbonTracker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 86D1C1CF2791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTracker" */;
+			buildPhases = (
+				8AB81DFE4E5728F04FD3809A /* [CP] Check Pods Manifest.lock */,
+				86D1C19E2791F1A7008B50B0 /* Sources */,
+				86D1C19F2791F1A7008B50B0 /* Frameworks */,
+				86D1C1A02791F1A7008B50B0 /* Resources */,
+				7F48869CED629D3EFD2D19CB /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarbonTracker;
+			productName = CarbonTracker;
+			productReference = 86D1C1A22791F1A7008B50B0 /* CarbonTracker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		86D1C1BA2791F1AB008B50B0 /* CarbonTrackerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 86D1C1D22791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTrackerTests" */;
+			buildPhases = (
+				7EDC6FB0FE045E87F6E25FF4 /* [CP] Check Pods Manifest.lock */,
+				86D1C1B72791F1AB008B50B0 /* Sources */,
+				86D1C1B82791F1AB008B50B0 /* Frameworks */,
+				86D1C1B92791F1AB008B50B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				86D1C1BD2791F1AB008B50B0 /* PBXTargetDependency */,
+			);
+			name = CarbonTrackerTests;
+			productName = CarbonTrackerTests;
+			productReference = 86D1C1BB2791F1AB008B50B0 /* CarbonTrackerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		86D1C1C42791F1AB008B50B0 /* CarbonTrackerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 86D1C1D52791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTrackerUITests" */;
+			buildPhases = (
+				6EB90BDA647A3C184140707A /* [CP] Check Pods Manifest.lock */,
+				86D1C1C12791F1AB008B50B0 /* Sources */,
+				86D1C1C22791F1AB008B50B0 /* Frameworks */,
+				86D1C1C32791F1AB008B50B0 /* Resources */,
+				A9E7A5313FB801C51B0C8A77 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				86D1C1C72791F1AB008B50B0 /* PBXTargetDependency */,
+			);
+			name = CarbonTrackerUITests;
+			productName = CarbonTrackerUITests;
+			productReference = 86D1C1C52791F1AB008B50B0 /* CarbonTrackerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		86D1C19A2791F1A7008B50B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
+				ORGANIZATIONNAME = "Dusan Orescanin";
+				TargetAttributes = {
+					86D1C1A12791F1A7008B50B0 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					86D1C1BA2791F1AB008B50B0 = {
+						CreatedOnToolsVersion = 13.2.1;
+						LastSwiftMigration = 1320;
+						TestTargetID = 86D1C1A12791F1A7008B50B0;
+					};
+					86D1C1C42791F1AB008B50B0 = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 86D1C1A12791F1A7008B50B0;
+					};
+				};
+			};
+			buildConfigurationList = 86D1C19D2791F1A7008B50B0 /* Build configuration list for PBXProject "CarbonTracker" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 86D1C1992791F1A7008B50B0;
+			productRefGroup = 86D1C1A32791F1A7008B50B0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				86D1C1A12791F1A7008B50B0 /* CarbonTracker */,
+				86D1C1BA2791F1AB008B50B0 /* CarbonTrackerTests */,
+				86D1C1C42791F1AB008B50B0 /* CarbonTrackerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		86D1C1A02791F1A7008B50B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				86D1C1B52791F1AB008B50B0 /* LaunchScreen.storyboard in Resources */,
+				86D1C1B22791F1AB008B50B0 /* Assets.xcassets in Resources */,
+				86D1C1AD2791F1A7008B50B0 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1B92791F1AB008B50B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8633373F27A5B01500FFD719 /* FootprintIncorrectData.json in Resources */,
+				8629DDC6279484D300E3F644 /* CarMakeServiceCorrectJsonData.json in Resources */,
+				8629DDC8279485B400E3F644 /* CarMakeServiceBadJsonData.json in Resources */,
+				8633373B27A5AEB800FFD719 /* FootprintCorrectData.json in Resources */,
+				8629DDDA2795FFEC00E3F644 /* CarModelsCorrectData.json in Resources */,
+				8629DDDC2796001200E3F644 /* CarModelsIncorrectData.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1C32791F1AB008B50B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6EB90BDA647A3C184140707A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CarbonTracker-CarbonTrackerUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7EDC6FB0FE045E87F6E25FF4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CarbonTrackerTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7F48869CED629D3EFD2D19CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker/Pods-CarbonTracker-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker/Pods-CarbonTracker-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker/Pods-CarbonTracker-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8AB81DFE4E5728F04FD3809A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CarbonTracker-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A9E7A5313FB801C51B0C8A77 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CarbonTracker-CarbonTrackerUITests/Pods-CarbonTracker-CarbonTrackerUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		86D1C19E2791F1A7008B50B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				869CE4DA27B2D98D00785744 /* CustomNavigationItem.swift in Sources */,
+				86D1C1E027920FC5008B50B0 /* APIKeys.swift in Sources */,
+				869CE4DE27B2EB2200785744 /* CustomAnnotation.swift in Sources */,
+				8629DDD02795F4EF00E3F644 /* CarModelServiceAF.swift in Sources */,
+				86D1C1F727935AA2008B50B0 /* SelectModelViewController.swift in Sources */,
+				86EE4B3127B1BA5C007A7CEB /* CircleView.swift in Sources */,
+				479681C027B09DA2002C6501 /* FootprintCountManager.swift in Sources */,
+				8633372C27A5948C00FFD719 /* CarbonFootprintAFSession.swift in Sources */,
+				8629DDDF2796C5B200E3F644 /* CarModelObject.swift in Sources */,
+				8633372A27A1AF6D00FFD719 /* LocationDatas.swift in Sources */,
+				8629DDCC2794876200E3F644 /* NetworkErrors.swift in Sources */,
+				471B91DE27B5FAB600FC1E8A /* CountModalViewController.swift in Sources */,
+				86E5A34127B4260500EEE41D /* GeoCoderHelper.swift in Sources */,
+				4768DE4827A8CB7800577A68 /* FootprintCdManager.swift in Sources */,
+				8633373627A5A52B00FFD719 /* CarbonFootprintSessionAF.swift in Sources */,
+				861C4D0327A7681B00D8E281 /* CountriesDataArray.swift in Sources */,
+				86D1C1E42792189C008B50B0 /* MyCarViewController.swift in Sources */,
+				861C4D0C27AB129000D8E281 /* FootprintDataObject.swift in Sources */,
+				86D1C1F527935796008B50B0 /* SelectMakeViewController.swift in Sources */,
+				862A9B77279DC93500D933FC /* ConfirmViewController.swift in Sources */,
+				86D1C1A62791F1A7008B50B0 /* AppDelegate.swift in Sources */,
+				47B1FE6F27926D3000B57ECD /* CarMakeServiceAF.swift in Sources */,
+				869C284E27A5D4F700FD829B /* FootprintResultViewController.swift in Sources */,
+				86D1C1F327935031008B50B0 /* AddNewCarViewController.swift in Sources */,
+				86D1C1F027934A0B008B50B0 /* CountViewController.swift in Sources */,
+				862A9B75279DC92400D933FC /* DestinationAdressViewController.swift in Sources */,
+				86D1C1F927935FD5008B50B0 /* CarMakesData.swift in Sources */,
+				86D1C1E727933769008B50B0 /* AlamofireSessionProtocol.swift in Sources */,
+				8633372F27A596D000FFD719 /* EncodableCarbonData.swift in Sources */,
+				47AAB8AF27ACBF3500910908 /* FootprintTableViewCell.swift in Sources */,
+				4768DE4627A8CB5A00577A68 /* FootprintCdObject.swift in Sources */,
+				861C4D0627A9ACC100D8E281 /* FootprintCalculationsManager.swift in Sources */,
+				8629DDD22795F50300E3F644 /* CarModelsData.swift in Sources */,
+				86D6090C2799F48A00E3E999 /* CarTableViewCell.swift in Sources */,
+				86D1C1A82791F1A7008B50B0 /* SceneDelegate.swift in Sources */,
+				86EE4B2F27B17E09007A7CEB /* UIViewExtension.swift in Sources */,
+				8633373427A5A2F800FFD719 /* DecodableCarbonFootprint.swift in Sources */,
+				86D1C1ED279349AD008B50B0 /* FootprintsViewController.swift in Sources */,
+				86EE4B2C27B17261007A7CEB /* UIColorExtension.swift in Sources */,
+				86D1C1B02791F1A7008B50B0 /* CarbonTracker.xcdatamodeld in Sources */,
+				86D1C1EA279337BA008B50B0 /* CarbonSession.swift in Sources */,
+				869CE4DC27B2E47900785744 /* CustomAnnotationView.swift in Sources */,
+				8629DDE12796C6B400E3F644 /* CarModelObjectManager.swift in Sources */,
+				479681BE27AE0A1E002C6501 /* FootprintDetailViewController.swift in Sources */,
+				866C2E5B27B560D2000C2BF5 /* OnboardingViewController.swift in Sources */,
+				862A9B73279DC90F00D933FC /* StartingAdressViewController.swift in Sources */,
+				866C2E5827B5605D000C2BF5 /* CoreUserDefaults.swift in Sources */,
+				47AE429D27B200C700606C1C /* CustomPathRenderer.swift in Sources */,
+				862A9B79279F48A800D933FC /* MapLocations.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1B72791F1AB008B50B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8629DDC4279483E100E3F644 /* AlamofireMock.swift in Sources */,
+				86E5A34327B42AF400EEE41D /* GeoCoderServiceTests.swift in Sources */,
+				8633373127A59EF900FFD719 /* LocationDatasTestCase.swift in Sources */,
+				8633373827A5AE5900FFD719 /* CarbonFootprintSessionAFTestCase.swift in Sources */,
+				8629DDE6279739A700E3F644 /* SampleCarModelObjects.swift in Sources */,
+				861C4D0E27AB20D000D8E281 /* FootprintCdManagerTestCase.swift in Sources */,
+				8629DDD82795FFAB00E3F644 /* CarModelsFakeResponseData.swift in Sources */,
+				8629DDE827973C5300E3F644 /* CarModelObjectManagerTestCase.swift in Sources */,
+				8629DDC22794839300E3F644 /* CarMakeServiceAFTestCase.swift in Sources */,
+				479681C227B0AA6C002C6501 /* FootprintCountTestCase.swift in Sources */,
+				8629DDD52795FF5200E3F644 /* CarModelsServiceAFTestCase.swift in Sources */,
+				8633373D27A5AFA000FFD719 /* FootprintFakeResponseData.swift in Sources */,
+				861C4D1027AB210900D8E281 /* SampleFootprintDataObjects.swift in Sources */,
+				8629DDE4279736E600E3F644 /* TestingFakePersistentContainer.swift in Sources */,
+				8629DDCA2794861300E3F644 /* CarMakesFakeResponseData.swift in Sources */,
+				861C4D0927A9CAA000D8E281 /* FootprintCalculationHelperTestCase.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86D1C1C12791F1AB008B50B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				86D1C1CC2791F1AB008B50B0 /* CarbonTrackerUITestsLaunchTests.swift in Sources */,
+				86D1C1CA2791F1AB008B50B0 /* CarbonTrackerUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		86D1C1BD2791F1AB008B50B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 86D1C1A12791F1A7008B50B0 /* CarbonTracker */;
+			targetProxy = 86D1C1BC2791F1AB008B50B0 /* PBXContainerItemProxy */;
+		};
+		86D1C1C72791F1AB008B50B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 86D1C1A12791F1A7008B50B0 /* CarbonTracker */;
+			targetProxy = 86D1C1C62791F1AB008B50B0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		86D1C1AB2791F1A7008B50B0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				86D1C1AC2791F1A7008B50B0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		86D1C1B32791F1AB008B50B0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				86D1C1B42791F1AB008B50B0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		86D1C1CD2791F1AB008B50B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		86D1C1CE2791F1AB008B50B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		86D1C1D02791F1AB008B50B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E5D544A833157E601A7D2DF /* Pods-CarbonTracker.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CarbonTracker/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.openclassrooms;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		86D1C1D12791F1AB008B50B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72C718944DDAC18DA7EE7492 /* Pods-CarbonTracker.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CarbonTracker/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.openclassrooms;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		86D1C1D32791F1AB008B50B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1EA5D9C8B47FC4087C33197 /* Pods-CarbonTrackerTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JSB.CarbonTrackerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarbonTracker.app/CarbonTracker";
+			};
+			name = Debug;
+		};
+		86D1C1D42791F1AB008B50B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A6827FF36C4E1F3DAEF4AB54 /* Pods-CarbonTrackerTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JSB.CarbonTrackerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarbonTracker.app/CarbonTracker";
+			};
+			name = Release;
+		};
+		86D1C1D62791F1AB008B50B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 80A1DD18F887DF9F218DB1DC /* Pods-CarbonTracker-CarbonTrackerUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JSB.CarbonTrackerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CarbonTracker;
+			};
+			name = Debug;
+		};
+		86D1C1D72791F1AB008B50B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AEB0427626A19A42A2F25F12 /* Pods-CarbonTracker-CarbonTrackerUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FM2ZRB2384;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JSB.CarbonTrackerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CarbonTracker;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		86D1C19D2791F1A7008B50B0 /* Build configuration list for PBXProject "CarbonTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86D1C1CD2791F1AB008B50B0 /* Debug */,
+				86D1C1CE2791F1AB008B50B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		86D1C1CF2791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86D1C1D02791F1AB008B50B0 /* Debug */,
+				86D1C1D12791F1AB008B50B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		86D1C1D22791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTrackerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86D1C1D32791F1AB008B50B0 /* Debug */,
+				86D1C1D42791F1AB008B50B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		86D1C1D52791F1AB008B50B0 /* Build configuration list for PBXNativeTarget "CarbonTrackerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86D1C1D62791F1AB008B50B0 /* Debug */,
+				86D1C1D72791F1AB008B50B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		86D1C1AE2791F1A7008B50B0 /* CarbonTracker.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				86D1C1AF2791F1A7008B50B0 /* CarbonTracker.xcdatamodel */,
+			);
+			currentVersion = 86D1C1AF2791F1A7008B50B0 /* CarbonTracker.xcdatamodel */;
+			path = CarbonTracker.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 86D1C19A2791F1A7008B50B0 /* Project object */;
+}

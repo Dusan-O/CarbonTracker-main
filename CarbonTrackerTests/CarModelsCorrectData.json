@@ -1,0 +1,2675 @@
+[
+  {
+    "data": {
+      "id": "1eb04f06-329b-4b33-9290-4c2b648698ca",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1985,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "458f42f1-c065-42fc-a25f-8816340b7a1f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 348 TB/TS/Spider",
+        "year": 1994,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "be609fac-faac-4031-b457-ab78a55147bd",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 348 TB/TS/Spider",
+        "year": 1994,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "bb0b0071-73f2-4d6e-ba37-7503a30ab910",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 512 TR",
+        "year": 1994,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "173c8395-b517-4129-beee-babfb4e8e0b3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari Mondial T/Cabriolet",
+        "year": 1994,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "fed54535-3b98-4041-96be-caf99d40e693",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari Mondial T/Cabriolet",
+        "year": 1994,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3af30bc5-917e-4db2-be6b-5880ca7b27ee",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "308",
+        "year": 1985,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3dfd7dc6-547d-48c6-9590-34d1cd87fba6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F355 Berlinetta/GTS",
+        "year": 1995,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "585fd31a-2b1d-4a04-964a-1e7480b8bb54",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F50",
+        "year": 1995,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d18523a7-3106-456f-b87c-75e062ab9f5e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F512M",
+        "year": 1995,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6e044fdd-678e-4d31-8dc2-32772ea86742",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 348 TB/TS/Spider",
+        "year": 1995,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "77741a80-534e-40db-92cc-6e855096e9a4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 456 GT",
+        "year": 1995,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e261f1f5-dac4-44f4-a31f-258491aaa199",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F355 Berlinetta/GTS",
+        "year": 1996,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "27b60961-6fb6-413b-8b53-9132a687e7c9",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F355",
+        "year": 1997,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9833d3c2-77ce-4abf-800f-ff147b27a2d4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 456",
+        "year": 1997,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "846a1310-9054-4caf-b53b-1c16457a153b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 456",
+        "year": 1997,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "600a5a35-960b-4e32-ac08-69e6a9b7f9ad",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 550 Maranello",
+        "year": 1998,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b0f32472-246b-4303-b7a8-1c6b6911f4b5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F355/355 F1",
+        "year": 1998,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "974db94b-e454-44b3-be8f-13ffc7686194",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari F355/355 F1",
+        "year": 1998,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c4476459-ccdc-4d3b-b09d-5c44b7aee853",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 456 GT/GTA",
+        "year": 1998,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ab4af1e1-c9cd-4f46-befc-3a0d46461aff",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 456 GT/GTA",
+        "year": 1998,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4987ef7b-ea67-4f7e-8c11-5cb3435b32d5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "550 Maranello",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b46eb3fd-9547-40fb-96e4-57cd43019f51",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F355/355 F1",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2d515d1b-1c8a-4d8f-816f-ef3846a4e972",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F355/355 F1",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5fca219e-e33a-4e24-a967-4ded4129fe13",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f832fd1b-1405-4ae2-ac70-77dd7c8d2e04",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "20ae4a83-2620-4d51-9c09-ddd2e96d7f33",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2000,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4f77a25d-d322-4851-8e78-fa3a76d7560e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2000,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7cee6cb7-c906-496e-b0af-7ebb52b84b98",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "550 Maranello",
+        "year": 2000,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "390e4567-b1e4-48dd-af7c-e854bc4275af",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2000,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ee700089-c270-4002-8c6a-0da29a99c5a1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2000,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5cdcde26-d6c9-4be2-81a7-6b8666d8cb20",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2001,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "657d8a27-5e98-40f0-acc6-93eabfd284f6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2001,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2795e541-26a7-4d73-bbeb-cb57d519c533",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "550 Maranello/Barchetta",
+        "year": 2001,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "eedcd7ab-c9aa-43ff-82e8-59b93e0e7e54",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2001,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b40d4d5a-c523-4b95-aca3-0f617a7780f5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2001,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7c1091b1-5339-4343-953f-f60e764950a1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1986,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b8e1a657-82c6-4a7a-8fee-2407fdb34524",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "328 GTS/GTB",
+        "year": 1986,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "0e50c8a6-5714-418a-ad23-5a9783544774",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial/Cabriolet",
+        "year": 1986,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ae756a83-d402-4b60-8a44-e4053b7b5e61",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "95cf9090-919d-44cf-ad37-ca1c7e3a4695",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7c16e445-0d94-46eb-afdf-8325bbdab15e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "281ef923-79f3-47cd-8bf1-d15c03dad425",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d2d92281-0a98-47a9-be15-9d1a15c5a092",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "29f2e339-50ba-4f46-993e-e6282c11f8ff",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2002,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b5edc927-5e68-4add-b49e-4b4c23504e04",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Enzo Ferrari",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "258ff4c4-8b90-442f-9895-bb1314330f22",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9b0505fc-5c6c-41c4-a060-c860afab4c93",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9b4f39fe-0aad-4170-9f14-988dbad57256",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ea63e4cf-7032-487a-840b-f0b2d76c0213",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4f05305a-07d6-40bc-aadf-89f5e05cc580",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8c121c57-c126-4aaf-a3e9-ec6149d122df",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "456 MGT/MGA",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "47b45e47-4568-4350-8cee-db1683ac340d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider",
+        "year": 2003,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c3e886a2-9e2b-4b71-a5d6-2d995f6cdbdf",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider/Challenge",
+        "year": 2004,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d5ed226e-3b64-4ef1-a690-8cbe6d0e5412",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider/Challenge",
+        "year": 2004,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d5109896-f92f-4b4c-993d-6da1a9a279fe",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider/Challenge",
+        "year": 2004,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ff18392d-008e-45d0-8aba-597704b81e94",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello",
+        "year": 2004,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ba84d1a2-218b-4617-8072-b3c1b45e3b75",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello",
+        "year": 2004,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6423f831-6539-4ea7-b4ff-4eb0be0f3ce6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider/Challenge",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "58deb7e3-d60a-4ede-a395-7f82e82466cf",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Spider/Challenge",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d94ed8ce-8033-4e30-8a01-656ef819fd18",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello and Superamerica",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5c21b4c4-cb3c-4a1e-8faf-76ea3d862f38",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "575 M Maranello and Superamerica",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6cd749e3-3c21-48f9-8fbe-36389faa1b0f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "24f6dc60-59c3-4a40-9ae6-4cb14381a5f5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7babc174-0f5a-4eb7-9a15-d858ba28b6f1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "77efbcf1-7c85-4b7d-86c0-893ccd2ca278",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2005,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8c2e136d-c397-4b7a-84bb-fb70b019df03",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9da43dab-c6aa-4371-8a51-d457435380bb",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e0bdb52c-7da8-4abc-b246-4db24e2730bf",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "cc0523c0-0fe0-4420-8596-72d13f0cc22d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "960faa1a-b04c-4f83-9da5-637e64b5ab52",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F141",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "00189be3-8197-4229-a7f8-eb508ca9067a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F141",
+        "year": 2006,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f3a597ed-de8d-4d00-b1fd-a183c5f0166e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "10f984a5-93e8-4019-a716-19ad4946d863",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "bcfe88cc-5b59-4b3e-8c83-79ebbf6fda92",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e06c3d67-1d44-4f07-baf8-71c873c2c862",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ad271a6a-953c-4774-b5de-7d3ae8d70218",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6a1639ba-5792-4f78-88cc-939194676611",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2007,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3cd9b105-9390-44c8-a9fe-9a5fe5187895",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d755c114-7faf-4627-84b8-3e00b4e348a1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "721e160b-357c-4d42-ad1a-3b10fcd211c7",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9dfe7aff-1848-4107-96fd-1b69866845a0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "983e5d56-2d24-4766-8575-3ed303da84c0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "06b6f0c3-87cc-4305-8e19-182d29716ef9",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2008,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "fd849e74-a189-4e13-9530-b0d4abe1a0b5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "0e885fc9-b126-4b76-a41b-9c7fcb7d8a0b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F430",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f61927b7-0aa7-43b9-b5fa-46646e9990f2",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ed857aea-3df5-4d6f-89e0-0d10719a6676",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2f5a7c99-b72b-4512-8f47-650f971deeb6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "03af0ed1-1f65-4a99-95cf-fd1e43b1911d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8804477a-d9f0-4c8c-a39a-7d49b768c858",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2009,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "57812a69-9a4d-42df-93a8-c488b832f50b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "cb850ed7-89aa-4581-aa9d-f181f20785fa",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "348 TB/TS",
+        "year": 1993,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ece99b42-3289-441c-be1e-5d02c1bd9487",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1987,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "90eb5d6e-db94-431d-a100-5c9f726bc489",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "328 GTS/GTB",
+        "year": 1987,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7022a56f-5267-4c6e-a6a0-972a9daaa25b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Modena F1",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "458bc74e-97aa-4b16-a0e4-a458180ca7d6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "360 Modena/Modena F1",
+        "year": 1999,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8a37b818-bbd7-4250-a301-f15e256ab15c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "3.2 Mondial/Cabriolet",
+        "year": 1987,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d4a0c1ab-175e-48d8-9197-84ac2ee65f3a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f2510e11-655e-4cd7-90a0-92bcf56b9758",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "53f8c262-365f-4f54-a7dc-82d3371b3b13",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1e049162-84a0-4a6c-a7e5-1010042a5871",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f8f8cdd1-28c7-4f1b-82a7-984838bcb070",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2010,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e832080d-6743-478d-9236-e58542903ac7",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "aca9f120-6d5f-4ab7-877d-ee3e759b5df4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "94a45ade-d620-4efd-80c6-778c2d095094",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTB Fiorano",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f1195b57-5b36-4ea3-9dbf-7cc4ad4200ff",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 GTO",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "33657abb-7023-4596-96ba-03e49113a8e2",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "599 SA Aperta",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1e825c82-4986-4279-9b84-aa727be1863c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c36ddf75-5cc1-48b7-a6bd-e19b7c68fcdb",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "bc753983-857b-4746-b8ee-cca681183d7a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "91071820-8b0e-4826-a3e6-73616e5f446f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "612 Scaglietti",
+        "year": 2011,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1e75eacf-76d2-49cb-ba52-955e19913b30",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia Coupe",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e318a10b-3434-4c83-b3d3-41e8272d8a43",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia Coupe",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "de447008-eeb7-4bb5-b17e-a09215259daf",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia Spider",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3ddc695a-dffa-4d90-9600-2a1cb3423861",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia Spider",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7918bb96-8851-421f-b0ad-9c2401da549b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "020fc04c-4380-4fd0-8b87-716a6ca12318",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5e919785-694c-4cd3-91c7-ca74a4f8ba10",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4496afc2-915e-4a6e-a955-a3b57729e479",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2012,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9c45718a-9976-4a81-9115-58131657958b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ef93c4b4-fa88-4b03-9fd4-b4ee9c3c18ad",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c6da7cb0-fc33-47a5-9a02-25f29ec57cd7",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7bd97532-80e4-4a66-8b87-31ba4257e5a7",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c6a508e1-203c-4f27-a65a-b6ca99829bbc",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f8a25d39-5b64-4296-b1af-a97b927fad37",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "aedb2940-521d-4f64-981a-8d9f473cc973",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2ab71dfa-8b1b-49a4-9aa8-1ea1acb5f69e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "a9d33138-400d-4054-87cd-ddb4a4299880",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6e3f6ca3-e1bc-403a-8593-64530c273a2f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "87e2590b-e17c-454d-aefd-643b3b2252d0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e7d3977b-ede0-4a06-a407-0935bcbc323e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "19cac0e8-55d1-4e38-8821-35a80ba25ddc",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5432ddaf-4bb7-488e-bba5-2cef62874d33",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d150cc3b-055a-4842-b7b4-acd7310adbc8",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5909b7d7-f136-46a8-a40c-050c4012fe8a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "a87291ec-639e-4edc-b9e7-5c837d1c1b6a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "39cb9752-9ab0-48dd-8f52-e12a85e16b75",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "22f28616-5bcf-4606-aacf-4b58c5b61009",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e9566fda-6dcd-4d6c-8f3c-134c30fb660e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2013,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c869ec1f-0ef0-4156-8ae4-23476ea1c1f0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "cbf355e9-dbcd-47df-9c70-4c5d8ff99828",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Italia",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "27b3552a-4a37-4818-b59d-6d9b3b347c3c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "444052c8-d078-4fb7-93ed-dfc92c51e006",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Spider",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f92fe76c-06c6-466d-a4db-fc84060f4555",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8c5597d2-09a3-4033-86ca-91d63e81da55",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1138ef1a-d405-4a48-98e9-89e7020a408f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale Spider",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "90109323-c9b9-4e52-92ad-f6564c5fa8b9",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale Spider",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "58930c26-ab28-4edd-b4fc-d3596f993857",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "274ef13e-41b0-402d-8f89-e3e4688f48c3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4caf7e1d-ea78-4d10-8619-6d657f6417ed",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "321e1d12-fec3-41a1-adec-35aa7d9a1683",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "889b8654-01cb-483a-b097-ea027d700ae5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "780c894a-05bc-454a-b790-95d4880846ed",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2015,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e1ae38e5-8355-4ce4-93bc-dd248a48d764",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "be4f3fc2-2a11-4b9e-84ab-b78e44872f73",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "458 Speciale",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d8c37447-fe4e-4237-8c2a-025d190500d9",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "LaFerrari Hybrid",
+        "year": 2014,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3c35d870-27c2-43a0-9a4c-c694fedd7252",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "869f21b1-e647-4ccd-b0d9-85a1c35499c4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "48ffc590-8558-4540-8188-b790e2825917",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "a3177082-8409-4eea-a19c-81fdb250fcea",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "FF",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d9ad73c3-2478-4b04-87c5-8ff72282d0f3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "024cefa6-053f-47c9-9041-ba5c359928f6",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "759a2755-759f-454e-9927-9bfc92b05089",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f999712e-548c-4951-a705-8dc938502bcd",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "0833669b-b7f2-41e2-aeb4-6bdf2b8111c4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 tdf",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ebbad014-2270-49f5-b19c-619f4a3aae6f",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 tdf",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "dd0a2bb9-8c49-4ad1-85b3-e43fd64b6e07",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F60 America",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "12bacf0e-a411-4950-bc6a-c5589af544c2",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F60 America",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9f9691a1-bc1a-4c1d-998b-701d26219bb2",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4c429be9-13c3-4948-98df-a77ef2ea2126",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 tdf",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b320a946-4198-4809-b24b-e9f8839b9841",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "09c6927f-cc4a-402b-ad71-b1042afe2c80",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 Berlinetta",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "41868f29-eabc-4364-8872-f0d5fdd866c1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 tdf",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "023600ad-e3f6-4978-9db6-6a81906b15ca",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "56a6e9fd-c32f-4a0b-895c-c0c7563b13e1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F12 Berlinetta",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6f2da489-7570-4a31-ae43-3de1cc492304",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ca1cac2b-db49-4966-9473-c98021381644",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5c694f4d-d2bd-499e-b04e-bd8a7e28a017",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "7f78a59c-0d1e-4bad-adf2-d233c04e5067",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2a63d84c-02ef-4a4d-a3bb-7dae8515d1b1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial",
+        "year": 1985,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c7c9cc83-189c-4136-89c0-99b41383bb41",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "389428f3-b1b3-4c1f-9d9e-359b55ac87fa",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2016,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2cd4a812-600c-4bb6-aac7-c6259b0b05ef",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "LaFerrari Aperta",
+        "year": 2017,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8381ec52-c8e2-4476-b9b5-5506c625367d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5cce8d4d-3dd5-4e89-ad4d-14e2c0cf2f9e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "07986b62-deab-4c44-8944-af42a79598a5",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c06d7310-a367-4143-9cdd-5b485fbc4f14",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "5a9e7d8a-c2a2-4724-b012-018fcf5d169a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "dd1842b4-7ad3-4f58-98c8-653aa3bb4c93",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "257ffbba-9c71-43a2-ba32-d6382c66b087",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "California T",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f0316a25-c4b8-4e5b-a48f-d895d9163c8d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "812 Superfast",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "44b51e24-d0c3-4492-b262-f639907023d3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso T",
+        "year": 2018,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d1ab77dc-8ab9-41dd-bf86-70c39ea21319",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f6610291-56ce-4cb9-b93a-91abf0c06cc9",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b67e5d9b-de95-460e-95ef-b879a34c5f85",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "812 Superfast",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "4201e08b-e7a6-4970-a03d-8290257f7425",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ea41a3a4-2c76-473b-b5cb-c6514909f04b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso T",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6203b267-6600-4e5e-a1e4-b5be7d035600",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Portofino",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "83f26ca4-7fde-4d32-82bd-8b5dba4a7b08",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 GTB",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3e9de4b1-a388-47fe-9b3e-ecca7b2506bd",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Spider",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "f83c349b-9a60-45c1-9817-a3a6a5edf344",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Pista Spider",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "bb3e19c4-57b4-4c2f-a077-b463ecc272e0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Pista",
+        "year": 2019,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8b1c81b6-32f5-4173-b941-c3d236a18bc0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1988,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "96bfedf7-16ad-4c2b-a930-861f469bd4c7",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "328 GTS/GTB",
+        "year": 1988,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2ca6bfec-1d8b-4bc8-8cf3-e1a653f294ba",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "3.2 Mondial/Cabriolet",
+        "year": 1988,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6d3fc694-7c4f-42e0-b032-3451fb38b8b3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Pista",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "632295e4-d275-4ec6-bba9-201ad11880a0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "488 Pista Spider",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c956862d-01cf-4a77-94e5-b0966a21687e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "812 Superfast",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "a88eb172-3599-429d-968f-c083b37f5bea",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "6b6c8207-5c58-4281-8634-8342f10fb512",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "GTC4Lusso T",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "a1f769c9-a12c-44d8-b844-4e71181ee5fe",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Portofino",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b2e890d8-92f1-4a5a-82ef-3cbcac48ef95",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F8 Tributo",
+        "year": 2020,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c6f98943-2dbf-4ce0-b09d-c0774f99b139",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "812 Superfast",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e208f6e5-b5fc-4ec0-a408-12f909979a2c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F8 Tributo",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "527b944b-5ca7-4f42-9cae-5b1f3f098a1b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F8 Spider",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "733a2efd-5f8a-414b-9617-fc8cb1fc28e1",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "812 GTS",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2fb9ef57-3ff6-48f7-ab3a-809259504f22",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Portofino",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "70568691-3394-48a3-88a4-8f6919d86bcc",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F164 BCB",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e402e3e9-810f-46b3-86c5-3b3f00a60c8b",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Roma",
+        "year": 2021,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "8268fb8b-5662-488c-8e23-0520a3b05c3d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1989,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c5cebe67-db5f-477a-9ca8-eac908f8ef5d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "328 GTS/GTB",
+        "year": 1989,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "80feed33-6fd7-47de-8e6c-2b16e61f94c0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "348 TB/TS",
+        "year": 1989,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "e02d1fa6-63c5-454f-ad84-ccbb83fc789c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "3.2 Mondial/Cabriolet",
+        "year": 1989,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "ef23bce1-b4a8-40b3-9b76-19e91b80c7fd",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial T/Cabriolet",
+        "year": 1989,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1fb13cae-1996-4135-9ddf-9b0c8c5c849d",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F 40",
+        "year": 1990,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9cd78214-31e5-4356-9d16-e93342f2fe25",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1990,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c1e85175-9710-4f49-bb03-ae999a569de4",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "348 TB/TS",
+        "year": 1990,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "746fca2e-f789-4f3f-8c8a-454b2fac0914",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial T/Cabriolet",
+        "year": 1990,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "77eba9eb-a655-42f5-bee7-035bbe3d81d8",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F40",
+        "year": 1991,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "1a095a35-8517-4bab-b7df-360640dcfd9e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1991,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "38112f51-d6ae-44fa-8e1e-c7798e63267a",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "348 TB/TS",
+        "year": 1991,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "b18cc3da-aa52-42b8-9783-b43ca04739d8",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1991,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "9d617652-36c6-4fd1-82c6-36493c963c98",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial T/Cabriolet",
+        "year": 1991,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "2e58b566-9547-45ae-ae1f-a2ec7d75c7a3",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "F40",
+        "year": 1992,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "167a299d-9441-4440-ba79-5733559b7600",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Testarossa",
+        "year": 1992,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d53fb4f2-66f4-4b98-abaf-dd4816e5ce70",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "348 TB/TS",
+        "year": 1992,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "36f896c6-7af4-4cc9-8720-5108b4b97e40",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial T/Cabriolet",
+        "year": 1992,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "3be725c2-f13c-4ee6-aa6d-4f40e9987ecd",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Mondial T/Cabriolet",
+        "year": 1992,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "98d37a36-bee8-4a9e-9223-04d5a6a2af30",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 348 TB/TS",
+        "year": 1993,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "d23b4f15-788c-4e0f-9020-79aae0835de0",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari 512 TR",
+        "year": 1993,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "cfe16d8a-2cec-4c2c-8097-e1121e28e90e",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari Mondial T/Cabriolet",
+        "year": 1993,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "c2ce6830-ef29-4aa2-9039-e77ec8efba5c",
+      "type": "vehicle_model",
+      "attributes": {
+        "name": "Ferrari Mondial T/Cabriolet",
+        "year": 1993,
+        "vehicle_make": "Ferrari"
+      }
+    }
+  }
+]
