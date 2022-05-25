@@ -21,7 +21,6 @@ class CarMakeServiceAF {
     
     private static let baseCarMakesURLString = "https://www.carboninterface.com/api/v1/vehicle_makes"
     
-    
     init(session: AlamofireSession = CarbonSession()) {
         self.session = session
     }
@@ -55,5 +54,4 @@ class CarMakeServiceAF {
             }
         }
     }
-
 }
